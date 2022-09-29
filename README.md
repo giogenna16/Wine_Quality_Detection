@@ -1,2 +1,2 @@
 # Wine_Quality_Detection
-Machine Learning project for doing quality binary classification by using a wines dataset. 
+Machine Learning and pattern recognition project to classify bad and good quality wines. 
